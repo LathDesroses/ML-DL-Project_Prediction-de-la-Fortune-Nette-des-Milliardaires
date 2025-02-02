@@ -51,4 +51,4 @@ Ouvrez le notebook SOW_RAZAFINDRAKOTO_ESSOH_PROJECT ML - DL.ipynb pour explorer 
 
 ## License
 
-Ce projet n'est pas encore sous licence spécifique. Contactez l'auteur pour plus de détails.
+Ce projet est sous licence spécifique. Contactez les auteurs pour plus de détails.
