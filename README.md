@@ -6,7 +6,7 @@
 - **RAZAFINDRAKOTO Tsiba**
 - **ESSOH Lath**
 
-**M2 DS2E 2024-2025**
+**M2 DS2E**
 
 ## Contexte
 
